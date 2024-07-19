@@ -81,7 +81,8 @@ Desafio do bootcamp back-end node.js promovido pela iTalents. O projeto refere-s
    ```sh
    git clone https://github.com/AlexSnider/iTalents-ATVD3
    cd iTalents-ATVD3
-   node script.js
+   npm install
+   node script.js || npm start
 
 ## Minhas impressões durante o desenvolvimento
 
