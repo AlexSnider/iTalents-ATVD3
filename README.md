@@ -36,7 +36,7 @@ Desafio do bootcamp back-end node.js promovido pela iTalents. O projeto refere-s
 
 ### Ver Saldo de uma Conta
 - Solicitar o nome do titular e o tipo de conta.
-- Encontra a conta correspondente e exibir o saldo.
+- Encontra a conta correspondente e exibe o saldo.
 
 ### Aplicar Juros Automaticamente
 - Aplicar juros automaticamente às contas poupança ou corrente.
